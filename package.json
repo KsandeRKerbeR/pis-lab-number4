@@ -1,0 +1,25 @@
+{
+  "name": "webapplication",
+  "version": "1.0.0",
+  "description": "Laboratory work on the subject of Information Systems Design.",
+  "main": "app.js",
+  "scripts": {
+    "test": "console.log(\"My webapplication\");"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KsandeRKerbeR "
+  },
+  "keywords": [
+    "jsproekt"
+  ],
+  "author": "AlexandroTupisin",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dateformat": "^4.0.0",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "nodemon": "^2.0.6"
+  }
+}
